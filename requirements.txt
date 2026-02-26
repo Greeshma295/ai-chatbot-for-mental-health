@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+langchain
+langchain-classic
+langchain-groq
